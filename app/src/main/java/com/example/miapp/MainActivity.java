@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "Probando mi controlador de version de github en android", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
         });
