@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity
         setSupportActionBar(toolbar);
 
         int a = 1;
-        Log.d("a : ", String.valueOf(a));
+        Log.d("a : ", String.valueOf(a)); 
         int b = 2;
         Log.d("b : ", String.valueOf(b));
         int c = a + b;
